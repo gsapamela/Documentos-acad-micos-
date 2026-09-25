@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Quais fatores determinam se a inteligência artificial generativa amplia ou reduz a desigualdade de oportunidades entre trabalhadores]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Trazer fontes atuais que determinam se a inteligência artificial generativa amplia ou reduz a desigualdade de oportunidades entre trabalhadores.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Principais fatores associados ao uso desigual da IA generativa]`
+2. `[Analisar como esses fatores se relacionam com a ampliação ou a redução de oportunidades no mercado de trabalho]`
+3. `[como a IA generativa afeta a desigualdade de oportunidades.]`
+4. `[Redução da desigualdade de acesso à IA generativa.]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Quais fatores determinam se a inteligência artificial generativa amplia ou reduz a desigualdade de oportunidades entre trabalhadores]` |
+| Objetivo geral | `[Trazer fontes atuais que determinam se a inteligência artificial generativa amplia ou reduz a desigualdade de oportunidades entre trabalhadores]` |
+| Resultado esperado | `[Como cada um se associa à ampliação ou à redução da desigualdade de oportunidades,capacitação e inclusão digital.]` |
 
 ## Produto da etapa
 
