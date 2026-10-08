@@ -27,7 +27,7 @@ O objetivo deste artigo é avaliar a relação entre a inteligência artificial 
 
 ### `[Eixo 1]`
 
-`[ Noy e Zhang (2023) realizaram um experimento com 453 profissionais com ensino superior para analisar os efeitos do ChatGPT em tarefas de escrita. Os resultados indicaram redução no tempo necessário para realizar as atividades e melhora na qualidade dos trabalhos. Um ponto importante foi que os maiores ganhos ocorreram entre participantes que apresentavam desempenho inicial mais baixo.
+`[Noy e Zhang (2023) realizaram um experimento com 453 profissionais com ensino superior para analisar os efeitos do ChatGPT em tarefas de escrita. Os resultados indicaram redução no tempo necessário para realizar as atividades e melhora na qualidade dos trabalhos. Um ponto importante foi que os maiores ganhos ocorreram entre participantes que apresentavam desempenho inicial mais baixo.
 
 Resultado semelhante foi encontrado por Brynjolfsson, Li e Raymond (2025), que analisaram 5.172 trabalhadores de atendimento ao cliente após a implementação de uma ferramenta de IA. O estudo também identificou aumento da produtividade, principalmente entre trabalhadores menos experientes e com menor desempenho inicial. Um experimento controlado e uma análise realizada em um ambiente real de trabalho, os dois estudos indicam que a IA generativa pode ajudar a diminuir diferenças de desempenho entre trabalhadores.
 Nenhum dos dois estudos foi realizado no Brasil.]`
