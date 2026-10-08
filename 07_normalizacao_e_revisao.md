@@ -46,7 +46,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[Introdução]`|`[Objetivo geral formulado de maneira pouco específica]`|`[Reformular para indicar a análise dos fatores relacionados à desigualdade de oportunidades]`|`[Pâmela Sales]`|
+|`[Introdução]`|`[Objetivo geral formulado de maneira pouco específica]`|`[Reformular para indicar a análise dos fatores relacionados à desigualdade de oportunidades]`|`[Grupo]`|
 |`[Metodologia]`|`[Detalhamento]`|`[Informar bases consultadas e critérios de seleção efetivamente utilizados]`|`[Grupo]`|
 |`[Revisão da literatura]`|`[Os resultados estavam separados nos fichamentos e na matriz.]`|`[Os estudos foram comparados em dois eixos, destacando convergências, diferenças metodológicas e limitações.]`|`[Grupo]`|
 |`[Síntese Crítica]`|`[Era necessário relacionar produtividade e desigualdade de acesso.]`|`[Manter a conclusão de que os efeitos dependem das condições de acesso, sem generalizar além das evidências.]`|`[Grupo]`|
