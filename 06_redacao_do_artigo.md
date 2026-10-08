@@ -8,15 +8,15 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`[Inteligência artificial generativa e desigualdade de oportunidades no mercado de trabalho brasileiro]`
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`[Desigualdade digital]; [Mercado de trabalho]; [Inteligância Artificial]`
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`[Embora sistemas de IA sejam desenvolvidos e implementados em diferentes setores há décadas, a recente revolução representada pela disseminação de sistemas de IA de propósito ou finalidade geral exige nossa especial atenção, particularmente no que diz respeito aos seus impactos no mercado de trabalho.Seu uso pode facilitar tarefas, aumentar a produtividade e auxiliar trabalhadores que possuem diferentes níveis de experiência. No entanto, os benefícios dessa tecnologia não necessariamente chegam a todos da mesma maneira. No Brasil, diferenças de renda, escolaridade, acesso à internet, equipamentos e capacitação digital podem influenciar a possibilidade de utilização dessas ferramentas.]`
 
 ## Metodologia
 
